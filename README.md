@@ -41,3 +41,14 @@ Embora o universo de Nárnia tenha direitos autorais reservados, nossa **engenha
 Para proteger o andamento do filme ao longo dos anos, todos os colaboradores concordam que o material técnico estruturado aqui (arquivos de projeto, roteiros adaptados, prompts) é cedido ao repositório do projeto. Todo o trabalho será devidamente creditado na tela.
 
 *“Chorar faz bem enquanto dura. Mas, mais cedo ou mais tarde, é preciso parar e decidir o que fazer.”* — C.S. Lewis
+
+## ⚠️ Aviso Legal e Diretrizes de Monetização (Zero Tolerância)
+
+Este é um projeto **estritamente colaborativo, sem fins lucrativos e feito de fãs para fãs**. 
+
+Para proteger a integridade do projeto e respeitar os direitos autorais detidos pela The C.S. Lewis Company e pela Netflix, estabelecemos regras inegociáveis para todos os colaboradores:
+- **Zero Monetização:** O produto final será disponibilizado gratuitamente. Não haverá venda de ingressos, cópias físicas ou digitais, nem monetização por anúncios em plataformas de vídeo (ex: YouTube).
+- **Proibição de Financiamento Coletivo:** É terminantemente proibido criar, promover ou associar este projeto a campanhas de arrecadação de fundos (Patreon, Kickstarter, Catarse, Vaquinhas, Pix, etc.), mesmo que o objetivo alegado seja "cobrir custos de servidor ou assinaturas de IA".
+- **Custos Operacionais:** O uso de ferramentas de IA pagas é de responsabilidade individual de cada colaborador interessado em contribuir com suas próprias assinaturas, sem expectativa de reembolso.
+
+Qualquer contribuição ou *Pull Request* enviado a este repositório implica na concordância absoluta com estes termos.
