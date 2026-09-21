@@ -52,3 +52,13 @@ Para proteger a integridade do projeto e respeitar os direitos autorais detidos 
 - **Custos Operacionais:** O uso de ferramentas de IA pagas é de responsabilidade individual de cada colaborador interessado em contribuir com suas próprias assinaturas, sem expectativa de reembolso.
 
 Qualquer contribuição ou *Pull Request* enviado a este repositório implica na concordância absoluta com estes termos.
+
+## 🎨 Diretrizes de Direção de Arte e Bíblia Visual
+
+Para garantir que a adaptação de *A Cadeira de Prata* mantenha uma identidade visual sólida, cinematográfica e coesa ao longo de vários anos de produção, a gestão da **Bíblia Visual é centralizada**.
+
+### Como funciona a curadoria estética:
+- **Consistência Obrigatória:** Parâmetros de imagem, proporções corporais, figurinos e os rostos oficiais de personagens centrais (como Jill, Eustáquio, Brejeiro e o Príncipe Rilian) são travados e geridos exclusivamente pela direção de arte do projeto para evitar variações estéticas indesejadas.
+- **Banco de Referências da Comunidade:** Entusiastas e colaboradores que desejarem contribuir com ideias visuais devem enviar sugestões exclusivamente através de *Issues* ou sessões de referência (pinturas clássicas, ilustrações originais de Nárnia como as de Pauline Baynes, ou conceitos de cenografia). 
+- **O Filtro do Diretor:** A equipe de curadoria avaliará as referências enviadas. Caso o material se alinhe ao tom visual planejado para Nárnia, os pântanos ou o Mundo Subterrâneo, a própria direção gerará o *asset* final oficial aplicando os parâmetros de consistência corretos.
+
