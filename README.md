@@ -9,7 +9,7 @@ Nós substituímos os orçamentos milionários e os estúdios de CGI por um flux
 
 ## 🎬 A Visão do Projeto
 
-* **Formato:** Longa-metragem ou Minissérie (a definir).
+* **Formato:** Longa-metragem.
 * **Natureza:** Fan-film não-comercial (Non-profit).
 * **Tempo de Produção:** Flexível (Longo prazo). Sem pressa, foco na excelência.
 
